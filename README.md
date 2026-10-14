@@ -19,7 +19,7 @@ Recent Software Industry and Multimedia graduate from Alexandria National Univer
 
 ## Connect With Me
 ## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/menna-allah-yasser-aa383835/)
+- [LinkedIn](www.linkedin.com/in/menna-allah-yasser-aa3838357)
 - [Email](mailto:ymenna01@gmail.com)
 <!--
 **mennayasser5656/mennayasser5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

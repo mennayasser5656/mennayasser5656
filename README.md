@@ -18,9 +18,8 @@ Recent Software Industry and Multimedia graduate from Alexandria National Univer
 - **Sal7ha – Graduation Project:** A car service platform featuring a client mobile application and an admin dashboard website for workshop owners. My role focused on frontend development for the website.
 
 ## Connect With Me
-## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/menna-allah-yasser-aa3838357)
-- [Email](mailto:ymenna01@gmail.com)
+- [Email](ymenna01@gmail.com)
 <!--
 **mennayasser5656/mennayasser5656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
